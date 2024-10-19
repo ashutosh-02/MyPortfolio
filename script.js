@@ -28,14 +28,14 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typing", {
-        strings: ["Computer Science Student"],
+        strings: ["Frontend Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Web Developer"],
+        strings: ["Aspring Full Stack Web Developer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
